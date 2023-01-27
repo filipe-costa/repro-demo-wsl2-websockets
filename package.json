@@ -1,0 +1,9 @@
+{
+  "name": "repro-demo-wsl2-websockets",
+  "version": "0.0.1",
+  "description": "Minimum Reproducible demo using WSL2 with Websockets",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
